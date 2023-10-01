@@ -77,7 +77,7 @@ npm update <package-name>
 
 ## Versioning
 
-In addition to plain downloads, `npm` also manages **versioning**, so you can specify any specific version of a package, or require a version higher or lower than what you need.
+In addition to plain downloads, `npm` also manages **versioning** one of the key features of npm is semantic versioning also known as (Semver), so you can specify any specific version of a package, or require a version higher or lower than what you need.
 
 Many times you'll find that a library is only compatible with a major release of another library.
 
